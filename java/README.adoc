@@ -1,0 +1,3 @@
+= Docker file
+
+* Build a simple container with java
